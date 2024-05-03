@@ -1,0 +1,3 @@
+[submodule "submodules/qdanalysis"]
+	path = submodules/qdanalysis
+	url = https://github.com/justjude97/qdanalysis.git
