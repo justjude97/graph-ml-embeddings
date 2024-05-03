@@ -1,3 +1,6 @@
 [submodule "submodules/qdanalysis"]
 	path = submodules/qdanalysis
 	url = https://github.com/justjude97/qdanalysis.git
+[submodule "submodules/sknw"]
+	path = submodules/sknw
+	url = https://github.com/Image-Py/sknw.git
